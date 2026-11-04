@@ -69,3 +69,9 @@ APK debug dibuat di `app/build/outputs/apk/debug/app-debug.apk`.
 ## Screenshot
 
 Screenshot aplikasi belum disertakan. Tambahkan screenshot demo yang tidak menampilkan data pribadi sebelum repository dibagikan secara publik.
+
+<img width="720" height="1549" alt="e5356d5f-a684-4e78-b525-30cb68f68ffc" src="https://github.com/user-attachments/assets/9205cac9-d087-43b2-9150-112ac423f2b6" />
+<img width="720" height="1553" alt="0f62e0a4-f19b-43e0-8f50-5f55c1fb7739" src="https://github.com/user-attachments/assets/98cf399f-1a6b-4616-9e36-dadf898e83a1" />
+<img width="720" height="1547" alt="b314a3af-f76b-4500-b6bf-758fec7952f8" src="https://github.com/user-attachments/assets/0b06cd2c-2e60-4cef-a08f-3b62e5c36486" />
+
+
